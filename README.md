@@ -1,3 +1,4 @@
 # CT-caverna.site
 Site feito para a academia de artes marciasis ct caverna
-Utilizando css, html, e java script
+Utilizando CSS, HTML, e java script
+e PHP para validação de dados e cadastro no banco de dados
