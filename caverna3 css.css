@@ -430,3 +430,20 @@ button {
     right: 0;
     width: 0;
   }
+
+@media screen and (max-width:768px){
+    .container,.atletas,.produto,.container{
+      width: 100%;
+      flex-direction: column;
+    }
+  .menu{
+width: 12px;
+    display: flex;
+    justify-content: center;
+  }
+    #N1{
+    font-size: 15px;
+    }
+
+   }
+  
